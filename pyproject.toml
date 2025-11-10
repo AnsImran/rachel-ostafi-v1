@@ -1,0 +1,11 @@
+[project]
+name = "33-rachel-ostafi-upwork"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.0.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+]
